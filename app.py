@@ -52,8 +52,8 @@ def safe_exec_chart_code(code: str, df: pd.DataFrame):
         raise RuntimeError(f"❌ Code execution failed: {e}")
 
 # ========== API KEYS ========== #
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB_vp5cECVoWBWHPdSpH0KHTf4Vo3yMAl4"
-os.environ["SERPAPI_API_KEY"] = "89a84ea5645f2af4adbda412a2271fb8e84dfb41f4b742e18cf7577e9f2ddc18"
+os.environ["GOOGLE_API_KEY"] = "<api key>"
+os.environ["SERPAPI_API_KEY"] = "<api key>"
 
 # ========== Streamlit UI ========== #
 st.set_page_config(page_title="🧠 Data Analyst Agent", layout="wide")
