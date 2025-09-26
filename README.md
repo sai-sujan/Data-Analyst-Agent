@@ -5,7 +5,7 @@ AI-powered financial analysis assistant for CFOs. Upload Excel/CSV data and ask 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/cfo-copilot.git
+git clone https://github.com/sai-sujan/Data-Analyst-Agent/tree/cfo_Copilot
 cd cfo-copilot
 pip install -r requirements.txt
 cp .env.template .env  # Add your Google API key
