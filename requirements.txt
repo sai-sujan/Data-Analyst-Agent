@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+matplotlib 
+seaborn 
+numpy 
+python-dotenv 
+langchain 
+langchain-experimental 
+langchain-google-genai 
+openpyxl
