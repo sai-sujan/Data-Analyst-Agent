@@ -1,4 +1,4 @@
-# 🧠 Data Analyst Agent
+# 🧠 Data Analyst Agent - ReAct Reasoning
 
 Upload a CSV, ask questions, request charts, and let the AI agent **analyze, reason, and visualize** your data.  
 Built using **LangChain**, **Google Gemini**, and **Streamlit**.
